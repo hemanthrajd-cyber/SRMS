@@ -1,1 +1,1 @@
-# Smart_Residential_Energy_Management_System
+# Smart Residential Energy Management System
